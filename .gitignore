@@ -1,0 +1,9 @@
+*cache*
+*.out
+*vscode*
+.vs*
+*.o
+main
+*.gch
+*.pyc
+*test*
